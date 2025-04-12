@@ -1,0 +1,30 @@
+2025-04-11 20:06:50,164 - backend.flask - INFO - Unhandled exception in Flask backend
+2025-04-11 20:06:50,164 - backend.flask - WARNING - Unhandled exception in Flask backend
+2025-04-11 20:06:50,164 - backend.flask - WARNING - Critical backend Flask error
+2025-04-11 20:06:50,164 - backend.flask - WARNING - Backend Flask service running
+2025-04-11 20:06:50,164 - backend.flask - INFO - Backend Flask service running
+2025-04-11 20:06:50,164 - backend.flask - INFO - Backend Flask service running
+2025-04-11 20:06:50,164 - backend.flask - ERROR - Backend Flask service running
+2025-04-11 20:06:50,164 - backend.flask - INFO - Database connection failed in Flask
+2025-04-11 20:06:50,164 - backend.flask - INFO - Backend Flask service running
+2025-04-11 20:06:50,164 - backend.flask - CRITICAL - Backend Flask service running
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Critical backend Flask error
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Critical backend Flask error
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - ERROR - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - ERROR - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - ERROR - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - ERROR - Unhandled exception in Flask backend
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Database connection failed in Flask
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Critical backend Flask error
+2025-04-11 20:14:24,941 - backend.flask - WARNING - Critical backend Flask error
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Backend Flask service running
+2025-04-11 20:14:24,941 - backend.flask - CRITICAL - Backend Flask service running

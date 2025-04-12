@@ -1,0 +1,30 @@
+2025-04-11 20:06:50,161 - frontend.flask - INFO - Critical Flask error
+2025-04-11 20:06:50,161 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:06:50,162 - frontend.flask - WARNING - Flask app initialized
+2025-04-11 20:06:50,162 - frontend.flask - ERROR - Flask app initialized
+2025-04-11 20:06:50,162 - frontend.flask - ERROR - Flask app crashed unexpectedly
+2025-04-11 20:06:50,162 - frontend.flask - WARNING - Flask app initialized
+2025-04-11 20:06:50,162 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:06:50,162 - frontend.flask - ERROR - Flask app initialized
+2025-04-11 20:06:50,162 - frontend.flask - CRITICAL - Flask route not found
+2025-04-11 20:06:50,163 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:14:24,939 - frontend.flask - INFO - Flask app initialized
+2025-04-11 20:14:24,939 - frontend.flask - INFO - Flask app initialized
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Critical Flask error
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Critical Flask error
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - WARNING - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - WARNING - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask route not found
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Flask app initialized
+2025-04-11 20:14:24,940 - frontend.flask - INFO - Flask app initialized
+2025-04-11 20:14:24,940 - frontend.flask - WARNING - Flask app crashed unexpectedly
+2025-04-11 20:14:24,940 - frontend.flask - WARNING - Flask app crashed unexpectedly
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask app initialized
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Flask app initialized
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Critical Flask error
+2025-04-11 20:14:24,940 - frontend.flask - ERROR - Critical Flask error

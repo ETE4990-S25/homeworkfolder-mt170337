@@ -1,0 +1,30 @@
+2025-04-11 20:06:50,160 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:06:50,160 - frontend.js - CRITICAL - Frontend API call failed
+2025-04-11 20:06:50,160 - frontend.js - WARNING - Frontend API call failed
+2025-04-11 20:06:50,160 - frontend.js - WARNING - Frontend API call failed
+2025-04-11 20:06:50,160 - frontend.js - ERROR - Critical frontend error
+2025-04-11 20:06:50,160 - frontend.js - CRITICAL - Critical frontend error
+2025-04-11 20:06:50,160 - frontend.js - CRITICAL - Critical frontend error
+2025-04-11 20:06:50,160 - frontend.js - WARNING - Frontend API call failed
+2025-04-11 20:06:50,160 - frontend.js - ERROR - Unhandled promise rejection
+2025-04-11 20:06:50,160 - frontend.js - CRITICAL - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - ERROR - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - ERROR - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - INFO - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - INFO - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - ERROR - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - ERROR - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - WARNING - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - WARNING - Critical frontend error
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Frontend API call failed
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - ERROR - JavaScript loaded successfully
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Unhandled promise rejection
+2025-04-11 20:14:24,938 - frontend.js - CRITICAL - Unhandled promise rejection

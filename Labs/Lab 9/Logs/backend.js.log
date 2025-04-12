@@ -1,0 +1,30 @@
+2025-04-11 20:06:50,160 - backend.js - WARNING - Backend service started
+2025-04-11 20:06:50,160 - backend.js - WARNING - Critical backend failure
+2025-04-11 20:06:50,160 - backend.js - ERROR - Memory leak detected in backend
+2025-04-11 20:06:50,160 - backend.js - INFO - API endpoint returned 500
+2025-04-11 20:06:50,160 - backend.js - INFO - Backend service started
+2025-04-11 20:06:50,160 - backend.js - CRITICAL - API endpoint returned 500
+2025-04-11 20:06:50,160 - backend.js - CRITICAL - Memory leak detected in backend
+2025-04-11 20:06:50,160 - backend.js - CRITICAL - API endpoint returned 500
+2025-04-11 20:06:50,160 - backend.js - INFO - Memory leak detected in backend
+2025-04-11 20:06:50,161 - backend.js - INFO - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - CRITICAL - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - CRITICAL - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - WARNING - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - WARNING - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - ERROR - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - ERROR - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - WARNING - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - WARNING - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - ERROR - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - ERROR - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - ERROR - Backend service started
+2025-04-11 20:14:24,939 - backend.js - ERROR - Backend service started
+2025-04-11 20:14:24,939 - backend.js - INFO - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - INFO - Memory leak detected in backend
+2025-04-11 20:14:24,939 - backend.js - ERROR - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - ERROR - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - CRITICAL - Backend service started
+2025-04-11 20:14:24,939 - backend.js - CRITICAL - Backend service started
+2025-04-11 20:14:24,939 - backend.js - WARNING - API endpoint returned 500
+2025-04-11 20:14:24,939 - backend.js - WARNING - API endpoint returned 500
