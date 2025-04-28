@@ -1,0 +1,38 @@
+{
+    "INFO": {
+        "Yes, everyone saw that. No, you can't undo it.": 1,
+        "Tried to operate before coffee. Not permitted.": 3,
+        "This seemed like a good idea 3 hours ago.": 1,
+        "Confidence.exe unexpectedly closed.": 1,
+        "The system has given up. Please proceed manually.": 1,
+        "Your ambition has been archived or deleted.": 1,
+        "Too many recursive thoughts.": 1,
+        "No idea what you're doing.": 1,
+        "You can't just do that because you feel like it.": 1,
+        "Task completion not found.": 1,
+        "Recollection of why you walked into the room not available.": 1
+    },
+    "WARNING": {
+        "Too many browser tabs. One is now sentient.": 1,
+        "Tried to operate before coffee. Not permitted.": 2,
+        "Task completion not found.": 1,
+        "No idea what you're doing.": 1
+    },
+    "CRITICAL": {
+        "This seemed like a good idea 3 hours ago.": 1,
+        "Uncaught exception in user behavior.": 1,
+        "The system has given up. Please proceed manually.": 2,
+        "Confidence.exe unexpectedly closed.": 1,
+        "Too many browser tabs. One is now sentient.": 1,
+        "Recollection of why you walked into the room not available.": 2,
+        "Thought process overflowed into dream state.": 1
+    },
+    "ERROR": {
+        "Uncaught exception in user behavior.": 1,
+        "Recollection of why you walked into the room not available.": 1,
+        "You argued with someone on the internet.": 1,
+        "You've been idle for 3 hours. We assumed you were crying.": 1,
+        "Thought process overflowed into dream state.": 1,
+        "You can't just do that because you feel like it.": 1
+    }
+}
